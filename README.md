@@ -1,16 +1,22 @@
-## Hi there 👋
+**Backend-utvecklare med fokus på för affärskritiska system och optimerade databaser.**
 
-<!--
-**HarunAtic/HarunAtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Det här arbetar jag med just nu:
+- 🖥️ **Desktop:** Utvecklar kraftfulla applikationer i **C# / .NET**.
+- 🌐 **Webb:** Bygger backend-lösningar med **Node.js** och **ASP.NET Core**.
+- 💾 **Databaser:** Designar och optimerar scheman i både **SQL Server** och **MongoDB**.
 
-Here are some ideas to get you started:
+### 🚀 Tekniska Färdigheter:
+- **Språk:** C#, JavaScript (ES6+), Java, SQL, HTML/CSS
+- **Backend:** .NET Entity Framework, Node.js
+- **Databaser:** MSSQL, MongoDB (NoSQL)
+- **Verktyg:** Git, Docker, Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Statistik & Aktivitet
+
+
+---
+
+### 📫 Kontakta mig:
+
