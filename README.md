@@ -1,14 +1,6 @@
 **Hi 👋, I'm Harun Atic**
 
-**A passionate fullstack developer from Sweden with a focus on business-critical systems.**
-
-### 🛠 This is what I'm working on right now:
-- 🖥️ **Desktop:** Developing applications in **C# / .NET**.
-- 🌐 **Webb:** Building backend solutions with **Node.js** and **ASP.NET Core**.
-- 💾 **Databaser:** Designs and optimizes schemas in both **SQL Server** and **MongoDB**.
-
 ### 📊 Statistics & Activity
-
 
 ---
 
