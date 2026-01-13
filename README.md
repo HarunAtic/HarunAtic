@@ -1,4 +1,4 @@
-**Hi 👋, I'm Harun Atic**
+**Harun Atic**
 
 ### 📊 Statistics & Activity
 
